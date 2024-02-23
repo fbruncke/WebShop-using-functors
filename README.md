@@ -1,1 +1,1 @@
-# Java exercise of using fubction objects
+# Java exercise of using function objects
